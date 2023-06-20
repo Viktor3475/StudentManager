@@ -1,0 +1,3 @@
+﻿using StudentsManager;
+
+Menu.ShowMenu();
